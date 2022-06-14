@@ -97,17 +97,6 @@ table.noborder {
   position: sticky;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-img.latex {
-	vertical-align: -0px;
-}
-
 .text {
         height: 500px;
         width: 1000px;
