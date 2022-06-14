@@ -3,7 +3,6 @@ body {
 }
 
 .container{  
-  text-align: center;
   width: 30px;  
   height: 20px;  
   padding-top: 10px;  
@@ -73,11 +72,6 @@ th {
   font-style: bold;
 }
 
-table, th, td {
-  border: 1px solid black;
-  color: black;
-}
-
 .center {
   margin-left: auto;
   margin-right: auto;
@@ -92,7 +86,6 @@ a {
 table.noborder {
   border: none;
   width: 100%;
-  text-align: center;
   fill: black;
   position: sticky;
 }
